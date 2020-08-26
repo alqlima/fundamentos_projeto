@@ -2,7 +2,7 @@
 
 from math import pi
 import sys
-import errno
+# import errno
 
 
 def help():
